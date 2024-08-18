@@ -1,0 +1,2 @@
+apikey|secretkey
+f42da220d-1b8b-4fd3-94b7-a3fdsf21a06|D7FF36DFJSAK29JSEAA7
